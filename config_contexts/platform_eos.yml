@@ -8,9 +8,9 @@ _metadata:
   - name: Arista EOS
 snmp:
   community:
-  - name: networktocode
+  - name: networktocode-develop
     role: ro
-  - name: secure
+  - name: secure-develop
     role: rw
 
 nautobot_plugin_nornir:
