@@ -14,7 +14,7 @@ ntp:
   prefer: true
 snmp:
   community:
-  - name: ntc-public-develop4
+  - name: ntc-public-develop5
     role: RO
   - name: ntc-private
     role: RW
