@@ -6,7 +6,7 @@ _metadata:
   is_active: true
 snmp:
   community:
-  - name: ntc-public-develop3
+  - name: ntc-public-develop7
     role: RO
   - name: ntc-private
     role: RW
